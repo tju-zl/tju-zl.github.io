@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Science and Engineering, Tongji University, 2025 (expected)
+* M.S. in Control Science and Engineering, Harbin Engineering University, 2020
+* B.S. in Automatic, Shandong University of Science and Technology, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2019: Executive Director
+  * Heilongjiang Limiao Technology Development Co., Ltd.
+  * Duties includes: Technology Development and Management
+  * Supervisor: Harbin Engineering University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Electric R&D Engineer
+  * Shandong Shinva Co., Ltd.
+  * Duties included: Commercial Plans, New Air Mechain R&D
+  * Supervisor: Boping Xu
   
 Skills
 ======
