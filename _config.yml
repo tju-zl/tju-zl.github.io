@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lei Zhang"
-  pronouns         : "Mr. Zhang"  
+  pronouns         : # "Mr. Zhang"  
   bio              : "Ph. D. candidate."
   location         : "Shanghai, China"
   employer         : "Tongji University"
