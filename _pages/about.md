@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Latest Published Work [A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data](https://tju-zl.github.io/publication/2024-05-27-MuCoST)
+Latest Published Work [A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data](https://tju-zl.github.io/publication/2024-05-27-MuCoST), *Briefings in Bioinformatics*, May 27, 2024.
 
 ![Overview of MuCoST](/images/mucost_framework.png)
 
