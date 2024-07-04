@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data](https://tju-zl.github.io/publication/2024-05-27-MuCoST)
+Latest Published Work: [A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data](https://tju-zl.github.io/publication/2024-05-27-MuCoST)
 
 ![Overview of MuCoST](/images/mucost_framework.png)
 
@@ -26,31 +26,28 @@ Future work
 Spatially pseudo-time development flow (Coming soon...).
 
 ***
+***
 
 Research Interests
-===
+---
 My research focuses on the analysis methods for spatially resolved omics data.
 
-Spatial domain identification
----
+**Spatial domain identification**
 I am particularly interested in borrowing and adapting innovative methods from fields such as machine learning, statistics, and computational biology (Cross-Disciplinary Techniques). My goal is to create novel algorithms and frameworks that surpass the capabilities of existing biological methods.
 
-Spatial Multi-Omics Data Integration
----
+**Spatial Multi-Omics Data Integration**
 My research focuses on the development and application of advanced methodologies for handling spatial multi-omics data in biological genomics. By leveraging cutting-edge techniques from various disciplines, I aim to enhance the performance and insights that can be derived from multi-omics data.
 
-Biological Genomics
----
+**Biological Genomics**
 In the realm of biological genomics, my work involves exploring the spatial organization and interactions of various omics layers, including genomics, transcriptomics, proteomics, and metabolomics. Understanding these complex interactions is crucial for uncovering the underlying mechanisms of various biological processes and diseases.
 
-Performance Optimization
----
+**Performance Optimization**
 A significant aspect of my research is focused on performance optimization. By integrating techniques from other scientific areas, I strive to achieve higher accuracy, efficiency, and robustness in the analysis and interpretation of multi-omics data.
 
-Collaborative Research
----
+**Collaborative Research**
 I am also committed to collaborative research efforts, working alongside experts from diverse fields to push the boundaries of what can be achieved in spatial multi-omics. Interdisciplinary collaboration is key to developing innovative solutions and advancing our understanding of complex biological systems.
 
-For more information
-===
-Just contact me.
+Superviser & Co-author
+---
+- Superviser: Shu Liang, Tongji University.
+- Co-Superviser: Lin Wan, Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
