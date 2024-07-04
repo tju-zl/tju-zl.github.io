@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Technology Development and Management
   * Supervisor: Harbin Engineering University
 
-* Summer 2015: Electric R&D Engineer
+* Summer 2015: Electrical R&D Engineer
   * Shandong Shinva Co., Ltd.
   * Duties included: Commercial Plans, New Air Mechain R&D
   * Supervisor: Boping Xu
