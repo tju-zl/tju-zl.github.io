@@ -7,15 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Latest Published Work
----
+[A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data](https://tju-zl.github.io/publication/2024-05-27-MuCoST)
 
-1. A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data
+![Overview of MuCoST](/images/mucost_framework.png)
 
 Spatially resolved transcriptomics data are being used in a revolutionary way to decipher the spatial pattern of gene expression and the spatial architecture of cell types. Much work has been done to exploit the genomic spatial architectures of cells. Such work is based on the common assumption that gene expression profiles of spatially adjacent spots are more similar than those of more distant spots. However, related work might not consider the nonlocal spatial co-expression dependency, which can better characterize the tissue architectures. Therefore, we propose MuCoST, a Multi-view graph Contrastive learning framework for deciphering complex Spatially resolved Transcriptomic architectures with dual scale structural dependency. To achieve this, we employ spot dependency augmentation by fusing gene expression correlation and spatial location proximity, thereby enabling MuCoST to model both nonlocal spatial co-expression dependency and spatially adjacent dependency. We benchmark MuCoST on four datasets, and we compare it with other state-of-the-art spatial domain identification methods. We demonstrate that MuCoST achieves the highest accuracy on spatial domain identification from various datasets. In particular, MuCoST accurately deciphers subtle biological textures and elaborates the variation of spatially functional patterns.
-
-**Workflow of MuCoST**
-![Overview of MuCoST](/images/mucost_framework.png)
 
 ***
 
