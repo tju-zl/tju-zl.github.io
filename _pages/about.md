@@ -17,14 +17,19 @@ Spatially resolved transcriptomics data are being used in a revolutionary way to
 **Workflow of MuCoST**
 ![Overview of MuCoST](/images/mucost_framework.png)
 
+***
 
 Current work
-===
+---
 Spatial multiomics integration (Coming soon...).
 
+***
+
 Future work
-===
+---
 Spatially pseudo-time development flow (Coming soon...).
+
+***
 
 Research Interests
 ===
