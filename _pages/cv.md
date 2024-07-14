@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* Spring 2019: Executive Director
+* Summer 2019: Executive Director, The Legal Representative
   * Heilongjiang Limiao Technology Development Co., Ltd.
   * Duties includes: Technology Development and Management
   * Supervisor: Harbin Engineering University
 
 * Summer 2015: Electric R&D Engineer
   * Shandong Shinva Co., Ltd.
-  * Duties included: Commercial Plans, New Air Mechain R&D
+  * Duties included: Commercial Plans, Fresh Air Purifier R&D, The air purifier product line.
   * Supervisor: Boping Xu
   
 Skills
